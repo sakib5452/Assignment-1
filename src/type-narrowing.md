@@ -1,2 +1,1 @@
-1. What is Type Narrowing in TypeScript?
-   Type Narrowing is a process in TypeScript where a variable's type becomes more specific after checking its type using conditions. It helps us safely work with different types of values and prevents type-related errors.
+Type Narrowing is a process in TypeScript where a variable's type becomes more specific after checking its type using conditions. It helps us safely work with different types of values and prevents type-related errors.Narrowing is crucial for making TypeScript code more type-safe and for enabling the compiler to understand the specific types of variables in different branches of your code. It helps catch potential runtime errors during development and improves the overall reliability of your TypeScript code.
